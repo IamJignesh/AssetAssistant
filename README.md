@@ -1,4 +1,4 @@
-# AssetAssistant
+# Asset Assistant
 
 Asset Assistant includes three distinct components, a web app, web API and a mobile app developed as a cross-platform application for IOS and Android. This application is developed for an energy company in New Zealand. The main aim of this application is to assist workers of the company on how to use different machinery (assets) as well as provide information about the assets. The technology stack used in developing this application is Xamarin.Forms for developing the cross-platform mobile app for IOS and Android. HTML, Bootstrap, .Net Core and C# for the web app and .Net Cor, C# and SQL Server for the web API.
 
