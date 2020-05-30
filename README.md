@@ -10,3 +10,4 @@ The Web App is a lightweight web application frontend used for CRUD operations o
 * Below image shows the dashboard view. Here we can see the multiple documents associated with different assets. You can quickly manage each document by hovering over the three-dot icon and additional options will be displayed. Additional you can also click on individual row to navigate to individual asset page.
 
 ![](ReadMeImages/WebApp1.png)
+
