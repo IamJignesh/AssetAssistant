@@ -20,7 +20,7 @@ The Web App is a lightweight web application frontend used for CRUD operations o
 ![](ReadMeImages/WebApp3.png)
 
 ### Web API
-web API is used for synchronizing the data changes made by the web portal into the mobile app. On every launch, the mobile app checks for network connectivity and if the connectivity exists, the mobile app will make an API call to this API and retrieve the changes to the remote database and store it in the local database.
+The Web API is used for synchronizing the data changes made by the web portal into the mobile app. On every launch, the mobile app checks for network connectivity and if the connectivity exists, the mobile app will make an API call to this API and retrieve the changes to the remote database and store it in the local database.
 
 ### Accessing Asset Documentation via the Asset Assistant Mobile App:
 
