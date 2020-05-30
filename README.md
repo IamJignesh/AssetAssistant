@@ -19,7 +19,12 @@ The Web App is a lightweight web application frontend used for CRUD operations o
 
 ![](ReadMeImages/WebApp3.png)
 
+### Web API
+web API is used for synchronizing the data changes made by the web portal into the mobile app. On every launch, the mobile app checks for network connectivity and if the connectivity exists, the mobile app will make an API call to this API and retrieve the changes to the remote database and store it in the local database.
+
 ### Accessing Asset Documentation via the Asset Assistant Mobile App:
+
+The user download and install the Asset Assistant mobile app from the local app store. When the user launches the Asset Assistant app it fetches all the documents from the web API and stores it in the local database. The reason to download and store all the document locally is to support offline capability. This means that even when there is no network connectivity the user will still be able to access asset documentation by scanning the QR code.
 
 1. After downloading and installing the app from the local App store. Start the application.
 2. At initial start-up, it may take a few seconds to download the files from the server. A small spinner will be shown on the bottom right corner alongside last updated timestamp. The app is designed to fetch update at each launch when network connectivity is available.
