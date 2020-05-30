@@ -11,3 +11,10 @@ The Web App is a lightweight web application frontend used for CRUD operations o
 
 ![](ReadMeImages/WebApp1.png)
 
+* For adding a new asset documentation, simply click on the “Add Asset” button on the top right corner of the dashboard view. You will see a dialog box pop-up, fill in the details and click “Add” button.
+
+![](ReadMeImages/WebApp2.png)
+
+* Your asset documentation will be saved in the database and you will be navigated to uploaded asset page as shown in the image below.
+
+![](ReadMeImages/WebApp3.png)
